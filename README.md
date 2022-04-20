@@ -219,16 +219,6 @@ Only one rarity is not documented, the beginner, it represents an item of initia
 
 <p align="center">
   <b style="font-size: 35px">
-  Does Lumis have a dedicated team working just on this?
-  </b>
-  <br/>
-  No, all art, plot, database, website and marketing are being done by me, Wendel Freitas.
-</p>
-
-<br/>
-
-<p align="center">
-  <b style="font-size: 35px">
   Can the story, items and map be changed?
   </b>
   <br/>
