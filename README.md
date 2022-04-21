@@ -139,7 +139,7 @@ Only one rarity is not documented, the beginner, it represents an item of initia
     First Step
   </b>
   <br/>
-  Release the first 30 beginner rarity collectibles
+  Release the first 24 beginner rarity collectibles and 1 common item.
 </p>
 
 <p align="center">
