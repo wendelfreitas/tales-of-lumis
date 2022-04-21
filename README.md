@@ -225,15 +225,6 @@ Only one rarity is not documented, the beginner, it represents an item of initia
   Items already released and purchased in a marketplace cannot be changed visually, they can only have minor changes to the story, as well as the map and all other side stories.
 </p>
 
-<br/>
-
-<p align="center">
-  <b style="font-size: 35px">
-    Can the story, items and map be changed?
-  </b>
-  <br/>
-  Items already released and purchased in a marketplace cannot be changed visually, they can only have minor changes to the story, as well as the map and all other side stories.
-</p>
 
 <br/>
 
